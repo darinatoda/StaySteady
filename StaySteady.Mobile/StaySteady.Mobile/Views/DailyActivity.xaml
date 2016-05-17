@@ -104,13 +104,12 @@
 
 
     </Grid>
-    <Button Text="Emergency"
+    <Button Text="Emergency "
            Grid.Row="5" Grid.Column="0"
            BorderWidth = "1"
            TextColor="Red" />
- 
 
-    <Button Text="Cancel"
+    <Button Text="Cancel "
            Grid.Row="5" Grid.Column="1"
            BorderWidth = "1"
            TextColor="Red" />
