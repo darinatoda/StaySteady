@@ -12,7 +12,7 @@ namespace StaySteady.Mobile.Views
     {
         public DailyActivity()
         {
-            InitializeComponent(); //gggxxxadsddd
+            InitializeComponent(); //gggxxxadsdddsa
         }
     }
 }
